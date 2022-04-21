@@ -1,0 +1,642 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"pad",
+				"padding-left"
+			],
+			[
+				"fa-foo",
+				"fa-facebook"
+			],
+			[
+				"paddin",
+				"padding-bottom"
+			],
+			[
+				"border",
+				"border-top"
+			],
+			[
+				"bore",
+				"border-radius"
+			],
+			[
+				"bor",
+				"border-left"
+			],
+			[
+				"padd",
+				"padding-left"
+			],
+			[
+				"i",
+				"img"
+			],
+			[
+				"bag",
+				"background-size"
+			],
+			[
+				"padding",
+				"padding-top"
+			],
+			[
+				"padding-",
+				"padding-left"
+			],
+			[
+				"in",
+				"initial"
+			],
+			[
+				"col",
+				"col-md-3"
+			],
+			[
+				"ob",
+				"ob_start()"
+			],
+			[
+				"ob_end",
+				"ob_end_flush()"
+			],
+			[
+				"My",
+				"MySQLI_Error"
+			],
+			[
+				"li",
+				"li"
+			],
+			[
+				"s",
+				"script"
+			],
+			[
+				"h",
+				"h6"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"mysqli",
+				"mysqli_query"
+			],
+			[
+				"_",
+				"$_POST"
+			],
+			[
+				"my",
+				"mysql_connect()"
+			],
+			[
+				"mys",
+				"mysql_error()"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"pa",
+				"padding-top"
+			],
+			[
+				"array",
+				"array()"
+			],
+			[
+				"echo",
+				"echo()"
+			],
+			[
+				"var",
+				"var_dump()"
+			],
+			[
+				"ow",
+				"row"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"b",
+				"button"
+			],
+			[
+				"back",
+				"background-size"
+			],
+			[
+				"hea",
+				"header"
+			],
+			[
+				"margin",
+				"margin\tproperty"
+			],
+			[
+				"o",
+				"opacity\tproperty"
+			],
+			[
+				"tr",
+				"tritmen-section"
+			],
+			[
+				"modal",
+				"modal-header"
+			],
+			[
+				"moda",
+				"modal-content"
+			],
+			[
+				"mod",
+				"modal-body"
+			],
+			[
+				"tran",
+				"transition\tproperty"
+			],
+			[
+				"padin",
+				"padding-left\tproperty"
+			],
+			[
+				"col-md",
+				"col-md-6"
+			],
+			[
+				"trans",
+				"transparent"
+			],
+			[
+				"col-md-",
+				"col-md-8"
+			],
+			[
+				"boder",
+				"border-radius\tproperty"
+			],
+			[
+				"at",
+				"autocomplete\tAttr"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"margi",
+				"margin\tproperty"
+			],
+			[
+				"tra",
+				"transform\tproperty"
+			],
+			[
+				"fa",
+				"fa-facebook"
+			],
+			[
+				"g",
+				"gmail"
+			],
+			[
+				"bt",
+				"btn-sing-up"
+			],
+			[
+				"ac",
+				"action\tAttr"
+			],
+			[
+				"c",
+				"center"
+			],
+			[
+				"to",
+				"top-footer"
+			],
+			[
+				"he",
+				"hero-section"
+			],
+			[
+				"pri",
+				"Pricing"
+			],
+			[
+				"ser",
+				"services-item"
+			],
+			[
+				"do",
+				"doctors-item"
+			],
+			[
+				"com",
+				"col-md-7"
+			],
+			[
+				"fun",
+				"Functional"
+			],
+			[
+				"container",
+				"container"
+			],
+			[
+				"over",
+				"overflow\tproperty"
+			],
+			[
+				"l",
+				"latest-products"
+			],
+			[
+				"off",
+				"offset-md-2"
+			],
+			[
+				"form",
+				"form-control"
+			],
+			[
+				"row",
+				"row"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			],
+			[
+				"p",
+				"placeholder\tAttr"
+			],
+			[
+				"a",
+				"autocomplete\tAttr"
+			],
+			[
+				"su",
+				"sup\tTag"
+			],
+			[
+				"pading",
+				"padding\tproperty"
+			],
+			[
+				"dwnload",
+				"download"
+			],
+			[
+				"of",
+				"offset-md-2"
+			],
+			[
+				"re",
+				"required\tAttr"
+			],
+			[
+				"co",
+				"col-md-3"
+			],
+			[
+				"paddi",
+				"padding\tproperty"
+			],
+			[
+				"fu",
+				"Functional"
+			],
+			[
+				"slider",
+				"Slider"
+			],
+			[
+				"box",
+				"box-shadow\tproperty"
+			],
+			[
+				"Sub",
+				"subject"
+			],
+			[
+				"POST",
+				"POST"
+			],
+			[
+				"comme",
+				"Comment"
+			],
+			[
+				"te",
+				"text-align\tproperty"
+			],
+			[
+				"op",
+				"option-body"
+			],
+			[
+				"col-md-2",
+				"col-md-12"
+			],
+			[
+				"u",
+				"url()\tbackground"
+			],
+			[
+				"e",
+				"ease-in-out"
+			],
+			[
+				"no",
+				"no-repeat"
+			],
+			[
+				"img",
+				"img-fluid"
+			],
+			[
+				"wi",
+				"width\tproperty"
+			],
+			[
+				"w",
+				"width\tproperty"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Salman Aarefin/Desktop/nafiz/Responsive Portfolio Website/script.js",
+		"/C/Users/Salman Aarefin/Desktop/nafiz/Responsive Portfolio Website/style.css",
+		"/C/Users/Salman Aarefin/Desktop/nafiz/Responsive Portfolio Website/index.html",
+		"/C/Users/Salman Aarefin/Desktop/nafiz/HTML-CSS-Mini-Project-portfolio-master/app.js",
+		"/C/Users/Salman Aarefin/Desktop/salman/index.html",
+		"/C/Users/Salman Aarefin/Desktop/STRICT/STRICT/css/style.css",
+		"/C/Users/Salman Aarefin/Desktop/salman/css/style.css",
+		"/C/Users/Salman Aarefin/Desktop/BURGER HOME PAGE/BURGER HOME PAGE/css/style.css",
+		"/C/Users/Salman Aarefin/Desktop/BURGER HOME PAGE/BURGER HOME PAGE/index.html",
+		"/C/Users/Salman Aarefin/Desktop/STRICT/STRICT/index.html",
+		"/C/Users/Salman Aarefin/Desktop/index.html",
+		"/F/web design/Practice/web design practice 1/index.html",
+		"/F/web design/Practice/NBook Landing App/index.html",
+		"/F/web design/Practice/BURGER HOME PAGE/index.html",
+		"/F/web design/Practice/Wapik/index.html",
+		"/F/web design/Practice/Wapik/css/style.css",
+		"/F/web design/Practice/Wapik/wapik.psd",
+		"/C/xampp/htdocs/bijoy/wp-content/themes/bijoy/assets/css/style.css",
+		"/C/xampp/htdocs/bijoy/wp-content/themes/bijoy/footer.php",
+		"/C/xampp/htdocs/bijoy/wp-content/themes/bijoy/header.php",
+		"/C/xampp/htdocs/bijoy/wp-content/themes/bijoy/functions.php",
+		"/C/xampp/htdocs/bijoy/wp-content/themes/bijoy/sidebar.php",
+		"/C/xampp/htdocs/bijoy/wp-content/themes/bijoy/single.php",
+		"/C/xampp/htdocs/bijoy/wp-content/themes/bijoy/index.php",
+		"/C/xampp/htdocs/salman/wp-content/themes/Salman Theme/assets/css/style.css",
+		"/C/xampp/htdocs/bijoy/wp-content/themes/bijoy/style.css",
+		"/C/xampp/htdocs/salman/wp-content/themes/Salman Theme/style.css",
+		"/C/xampp/htdocs/salman/wp-content/themes/Salman Theme/functions.php",
+		"/C/xampp/htdocs/salman/wp-content/themes/Salman Theme/index.php",
+		"/F/web design class/code/project (1)/index.php",
+		"/F/web design class/code/project (1)/functions.php",
+		"/C/xampp/htdocs/php/form/create.php",
+		"/C/xampp/htdocs/php/form/edit.php",
+		"/C/xampp/htdocs/php/form/inc/header.php",
+		"/C/xampp/htdocs/php/form/inc/footer.php",
+		"/C/xampp/htdocs/php/form/index.php",
+		"/F/web design/Practice/Ski _ Snowboard School/index.html",
+		"/F/web design/Practice/Teaxi-Cab/css/style.css",
+		"/F/web design/Practice/Teaxi-Cab/index.html",
+		"/F/web design/Practice/Company Logo/css/style.css",
+		"/F/web design/Practice/Company Logo/index.html",
+		"/F/web design/Practice/Dental Plus/index.html",
+		"/F/web design/Practice/Wapik/img/maps.png",
+		"/C/xampp/htdocs/php/hate khori/db.php",
+		"/C/xampp/htdocs/php/hate khori/index.php",
+		"/C/xampp/htdocs/php/form/db.php",
+		"/C/xampp/htdocs/form/index.php",
+		"/C/xampp/htdocs/form/style.css",
+		"/C/xampp/htdocs/salman/index.php",
+		"/C/xampp/htdocs/form/form.php",
+		"/C/xampp/htdocs/Taasai/wp-config.php",
+		"/F/web design/Practice/Dental Plus/css/style.css",
+		"/F/web design/Practice/Dental Plus/js/main.js",
+		"/C/Users/Salman Aarefin/Desktop/school.html",
+		"/F/web design/Practice/Dental Plus/img/team-doctors-2.png",
+		"/F/web design/Practice/Axit/css/style.css",
+		"/F/web design/Practice/Axit/index.html",
+		"/C/xampp/htdocs/salman/wordpress/ssb-317/wp-config.php",
+		"/F/web design/Practice/Market Supply/css/style.css",
+		"/F/web design/Practice/Market Supply/index.html",
+		"/C/Users/Salman Aarefin/Desktop/Company Logo/index.html",
+		"/C/Users/Salman Aarefin/Desktop/Company Logo/js/main.js",
+		"/C/Users/Salman Aarefin/Desktop/Company Logo/css/style.css",
+		"/G/Practice/Company Logo/index.html",
+		"/F/web design/Company Logo/js/main.js",
+		"/F/web design/Company Logo/css/style.css",
+		"/F/web design/Company Logo/index.html",
+		"/F/web design/Practice/LUCID/js/main.js",
+		"/F/web design/Practice/LUCID/css/style.css",
+		"/F/web design/Practice/LUCID/index.html",
+		"/F/web design/Dental Plus/index.html",
+		"/F/web design/Dental Plus/js/main.js",
+		"/F/web design/Dental Plus/css/style.css",
+		"/F/web design/Practice/Market Supply/js/main.js",
+		"/F/web design/Practice/STRICT/index.html",
+		"/F/web design/Practice/STRICT/css/style.css",
+		"/F/web design/Practice/Ski _ Snowboard School/css/style.css",
+		"/F/web design/LUCID/index.html",
+		"/F/web design/LUCID/css/style.css",
+		"/C/Users/Salman Aarefin/Desktop/LUCID/index.html",
+		"/F/web design/LUCID/js/main.js",
+		"/G/salman/Market Supply/index.html",
+		"/F/web design/Practice/Axit/js/main.js",
+		"/F/web design/Practice/BURGER HOME PAGE/css/style.css",
+		"/F/Teaxi-Cab/css/style.css",
+		"/F/Axit/js/main.js",
+		"/F/Axit/css/style.css",
+		"/F/Axit/index.html",
+		"/F/Axit/Axit PSD.psd",
+		"/F/Teaxi-Cab/index.html",
+		"/D/web design/Practice/BURGER HOME PAGE/css/style.css",
+		"/D/web design/Practice/BURGER HOME PAGE/index.html",
+		"/D/web design/Practice/NBook Landing App/index.html",
+		"/D/web design/Practice/NBook Landing App/css/style.css",
+		"/D/web design/Practice/web design practice 1/css/index.css",
+		"/D/web design/Practice/STRICT/css/style.css",
+		"/D/web design/LUCID/index.html",
+		"/D/web design/LUCID/css/style.css",
+		"/G/salman/Teaxi-Cab/css/style.css",
+		"/G/salman/Teaxi-Cab/index.html",
+		"/D/web design/Practice/STRICT/index.html",
+		"/F/Texi/css/style.css",
+		"/F/Texi/index.html",
+		"/F/Taxi/index.html"
+	],
+	"find":
+	{
+		"height": 29.0
+	},
+	"find_in_files":
+	{
+		"height": 104.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 29.0
+	},
+	"input":
+	{
+		"height": 41.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "style.sublime-project",
+	"replace":
+	{
+		"height": 54.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 180.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
